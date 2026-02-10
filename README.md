@@ -84,7 +84,7 @@ Global Flags:
 ██║ ╚████║ ██║╚██████╔╝███████╗███████║╚██████╗██║  ██║██║ ╚████║
 ╚═╝  ╚═══╝ ╚═╝ ╚══▀▀═╝ ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-Run a custom N1QL injection attack against the target application.
+Run N1QL injection attacks against the target application.
 
 Examples:
   URL
