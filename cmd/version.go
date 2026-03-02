@@ -22,7 +22,7 @@ var versionCmd = &cobra.Command{
 ██║ ╚████║ ██║╚██████╔╝███████╗███████║╚██████╗██║  ██║██║ ╚████║
 ╚═╝  ╚═══╝ ╚═╝ ╚══▀▀═╝ ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
                                                                  
-version 0.0.1`
+version 1.0.0`
 		fmt.Println(versionMessage)
 	},
 	DisableFlagsInUseLine: true,
